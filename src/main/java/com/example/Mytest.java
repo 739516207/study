@@ -10,6 +10,8 @@ public class Mytest {
         }
         Long end = System.currentTimeMillis();
         System.out.println((end - begin) / 1000);
+        //改动一
+        System.out.println(1);
 
     }
 }
