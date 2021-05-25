@@ -12,6 +12,8 @@ public class Mytest {
         System.out.println((end - begin) / 1000);
         //改动一
         System.out.println(1);
+        //改动二
+        System.out.println(2);
 
     }
 }
